@@ -1,0 +1,41 @@
+p{
+    font-size:large;
+}
+button{
+    border-radius: 10px;
+   
+    color: white;
+    width:200px;
+    height: 30px;
+    margin-top: 10px;
+}
+I{
+    background-color: brown;
+    text-decoration: double;
+}
+a{
+    color: rgb(14, 89, 210);
+    font-size: 20px;
+    font-family: Arial;
+  
+}
+u{
+    color: coral;
+}
+.repairorg{
+    font-size: 35px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.repair{
+    display: flex;
+    font-size: 30px;
+    top: 0;
+    color: white;
+    background-color: black;
+}
+.repair div{
+    margin-top: 10px;
+    margin-left: 25px;
+}

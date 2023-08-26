@@ -1,0 +1,68 @@
+body{
+    background-image: url('comp3.jpg');
+}
+u{
+    font-size: 35px;
+}
+
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: bisque;
+    color: aquamarine;
+}
+.bady{
+    border-radius: 50px;
+    background-color: antiquewhite;
+    width: 450px;
+    height: 450px;
+    margin-left: 30%;
+}
+p{
+ margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.back{
+     font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    background-color: rgb(253, 245, 245);
+    margin-left: 40%;
+    border-radius: 7px;
+    
+  
+}
+.back a{
+    text-decoration: none;
+    color: black;
+}
+.back:hover{
+    transition: 0.4s ease-in-out;
+    background-color: rgb(141, 141, 140);
+    
+}
+
+textarea{
+justify-items: left;
+    color: rgb(57, 49, 213);
+    border: 2px;
+}
+.send{
+    margin-left: 80px;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: rgb(19, 15, 15);
+    color: white;
+    border-radius: 6px;
+}
+.send:hover{
+    background-color: rgb(74, 72, 72);
+    color:white;
+    transition: 0.4s ease-in-out;
+
+}
+.msg{
+    margin-left: 20px;
+}
