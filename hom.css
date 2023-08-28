@@ -76,14 +76,14 @@ height: 120px;
     background-color: rgb(246, 246, 250);
     transition: 0.4s ease-in-out;
 }
-/*.guy{
+.guy{
     border-radius: 50%;
     margin-top: -30px;
     float: right;
     margin-right: 20px;
     width: 50px;
     height: 50px;
-}*/
+}
 .boddy{
     position: relative;
     border-radius: 60px;
